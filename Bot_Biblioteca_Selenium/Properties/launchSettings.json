@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "Bot_Biblioteca_Selenium": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

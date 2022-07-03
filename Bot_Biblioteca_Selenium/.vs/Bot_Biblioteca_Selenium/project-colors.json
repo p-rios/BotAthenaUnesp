@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "21afb3c2-5f71-493a-829a-cbf2a9e414e7": {
+      "ProjectGuid": "21afb3c2-5f71-493a-829a-cbf2a9e414e7",
+      "DisplayName": "Bot_Biblioteca_Selenium",
+      "ColorIndex": 0
+    },
+    "19274317-dfe5-4a71-839e-021937105f9c": {
+      "ProjectGuid": "19274317-dfe5-4a71-839e-021937105f9c",
+      "DisplayName": "Bot_Biblitoteca_Selenium_Domain",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
