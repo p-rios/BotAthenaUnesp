@@ -26,14 +26,19 @@ namespace Bot_Biblioteca_Selenium
         {
             while (!stoppingToken.IsCancellationRequested)
             {
-                _logger.LogInformation("Worker running at: {time}", DateTimeOffset.Now);
-                _service.Execute("login", "senha");
+                //_logger.LogInformation("Worker running at: {time}", DateTimeOffset.Now);
+                Console.WriteLine("Digite o Usuário (sem @unesp):");
+                string login = Console.ReadLine();
+                Console.WriteLine("Digite a senha:");
+                Console.ReadKey(true);
+                string senha = Console.ReadLine();
+                _service.Execute(login, senha);
                 await Task.Delay(86400, stoppingToken);
             }
         }
         public override Task StartAsync(CancellationToken cancellationToken)
         {
-            _logger.LogInformation("Iniciado renovação");
+            //_logger.LogInformation("Iniciado renovação");
             return base.StartAsync(cancellationToken);
         }
 

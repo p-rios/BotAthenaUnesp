@@ -40,8 +40,8 @@ namespace Bot_AthenaUnesp
 
             Thread.Sleep(2000);
             driver.Navigate().GoToUrl("https://unesp.primo.exlibrisgroup.com/discovery/account?vid=55UNESP_INST:UNESP&section=loans&lang=pt");
-            Thread.Sleep(2000);
-            driver.FindElement(By.XPath("/html/body/primo-explore/div/prm-account/md-content/div[2]/prm-account-overview/md-content/md-tabs/md-tabs-content-wrapper/md-tab-content[2]/div/div/prm-loans/div[1]/div[2]/div[2]/button")).Click();
+            Thread.Sleep(5000);
+            driver.FindElement(By.XPath(BotaoRenovacao)).Click();
 
         }
     }
