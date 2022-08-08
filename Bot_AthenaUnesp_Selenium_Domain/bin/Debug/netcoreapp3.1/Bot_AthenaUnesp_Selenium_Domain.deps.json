@@ -9,6 +9,7 @@
       "Bot_AthenaUnesp_Selenium_Domain/1.0.0": {
         "dependencies": {
           "DotNetSeleniumExtras.WaitHelpers": "3.11.0",
+          "Selenium.Firefox.WebDriver": "0.27.0",
           "Selenium.Support": "4.3.0",
           "Selenium.WebDriver": "4.3.0",
           "Selenium.WebDriver.ChromeDriver": "103.0.5060.5300"
@@ -36,6 +37,7 @@
           }
         }
       },
+      "Selenium.Firefox.WebDriver/0.27.0": {},
       "Selenium.Support/4.3.0": {
         "dependencies": {
           "Selenium.WebDriver": "4.3.0"
@@ -80,6 +82,13 @@
       "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
       "path": "newtonsoft.json/12.0.3",
       "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "Selenium.Firefox.WebDriver/0.27.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HwCaTaa+snzkLF7ZVaxKSmdttKm+KXT7HOY8c1q8p9E7x05+WHqw5XaZjUGFytVT1+0FkgUoH/u/I+csPLeJAg==",
+      "path": "selenium.firefox.webdriver/0.27.0",
+      "hashPath": "selenium.firefox.webdriver.0.27.0.nupkg.sha512"
     },
     "Selenium.Support/4.3.0": {
       "type": "package",

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "bmHAcVt6hoBiyCdOgRcpXleui0+UnC6a1VAVoqGrLaUpUt9/LAJ6mtRdHZz9PjHdf+ZnXRCSZJ4/o7KGSTnp+Q==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\bot biblio\\Bot_AthenaUnesp\\Bot_AthenaUnesp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pedro\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\Pedro\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Pedro\\.nuget\\packages\\selenium.support\\4.3.0\\selenium.support.4.3.0.nupkg.sha512",
+    "C:\\Users\\Pedro\\.nuget\\packages\\selenium.webdriver\\4.3.0\\selenium.webdriver.4.3.0.nupkg.sha512",
+    "C:\\Users\\Pedro\\.nuget\\packages\\selenium.webdriver.chromedriver\\104.0.5112.7900\\selenium.webdriver.chromedriver.104.0.5112.7900.nupkg.sha512"
+  ],
+  "logs": []
+}

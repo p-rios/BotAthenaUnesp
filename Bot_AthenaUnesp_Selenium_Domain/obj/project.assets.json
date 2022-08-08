@@ -23,6 +23,12 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
+      "Selenium.Firefox.WebDriver/0.27.0": {
+        "type": "package",
+        "build": {
+          "build/Selenium.Firefox.WebDriver.targets": {}
+        }
+      },
       "Selenium.Support/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -102,6 +108,19 @@
         "packageIcon.png"
       ]
     },
+    "Selenium.Firefox.WebDriver/0.27.0": {
+      "sha512": "HwCaTaa+snzkLF7ZVaxKSmdttKm+KXT7HOY8c1q8p9E7x05+WHqw5XaZjUGFytVT1+0FkgUoH/u/I+csPLeJAg==",
+      "type": "package",
+      "path": "selenium.firefox.webdriver/0.27.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Selenium.Firefox.WebDriver.targets",
+        "driver/geckodriver.exe",
+        "selenium.firefox.webdriver.0.27.0.nupkg.sha512",
+        "selenium.firefox.webdriver.nuspec"
+      ]
+    },
     "Selenium.Support/4.3.0": {
       "sha512": "78f5qcda5YNj362T1Iuw1yRVY8lz5I8podvLLghLl87qMeNBpLNs9dJDKmG7TsIUC0ZalxL35pe1pGBVZU6dLA==",
       "type": "package",
@@ -163,6 +182,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "DotNetSeleniumExtras.WaitHelpers >= 3.11.0",
+      "Selenium.Firefox.WebDriver >= 0.27.0",
       "Selenium.Support >= 4.3.0",
       "Selenium.WebDriver >= 4.3.0",
       "Selenium.WebDriver.ChromeDriver >= 103.0.5060.5300"
@@ -174,11 +194,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projetos\\Bot_AthenaUnesp_Selenium_Domain\\Bot_AthenaUnesp_Selenium_Domain.csproj",
+      "projectUniqueName": "E:\\Projetos\\bot biblio\\Bot_AthenaUnesp_Selenium_Domain\\Bot_AthenaUnesp_Selenium_Domain.csproj",
       "projectName": "Bot_AthenaUnesp_Selenium_Domain",
-      "projectPath": "E:\\Projetos\\Bot_AthenaUnesp_Selenium_Domain\\Bot_AthenaUnesp_Selenium_Domain.csproj",
+      "projectPath": "E:\\Projetos\\bot biblio\\Bot_AthenaUnesp_Selenium_Domain\\Bot_AthenaUnesp_Selenium_Domain.csproj",
       "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
-      "outputPath": "E:\\Projetos\\Bot_AthenaUnesp_Selenium_Domain\\obj\\",
+      "outputPath": "E:\\Projetos\\bot biblio\\Bot_AthenaUnesp_Selenium_Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -210,6 +230,10 @@
           "DotNetSeleniumExtras.WaitHelpers": {
             "target": "Package",
             "version": "[3.11.0, )"
+          },
+          "Selenium.Firefox.WebDriver": {
+            "target": "Package",
+            "version": "[0.27.0, )"
           },
           "Selenium.Support": {
             "target": "Package",

@@ -7,5 +7,10 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="3.1.21" />
+    <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="104.0.5112.7900" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bot_AthenaUnesp\Bot_AthenaUnesp.csproj" />
   </ItemGroup>
 </Project>

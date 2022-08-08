@@ -17,3 +17,13 @@ E:\Projetos\Bot_AthenaUnesp_Selenium_Domain\obj\Debug\netcoreapp3.1\Bot_AthenaUn
 E:\Projetos\Bot_AthenaUnesp_Selenium_Domain\obj\Debug\netcoreapp3.1\Bot_AthenaUnesp_Selenium_Domain.genruntimeconfig.cache
 E:\Projetos\Bot_AthenaUnesp_Selenium_Domain\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
 E:\Projetos\Bot_AthenaUnesp_Selenium_Domain\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+E:\Projetos\bot biblio\Bot_AthenaUnesp_Selenium_Domain\bin\Debug\netcoreapp3.1\Bot_AthenaUnesp_Selenium_Domain.deps.json
+E:\Projetos\bot biblio\Bot_AthenaUnesp_Selenium_Domain\bin\Debug\netcoreapp3.1\Bot_AthenaUnesp_Selenium_Domain.dll
+E:\Projetos\bot biblio\Bot_AthenaUnesp_Selenium_Domain\bin\Debug\netcoreapp3.1\Bot_AthenaUnesp_Selenium_Domain.pdb
+E:\Projetos\bot biblio\Bot_AthenaUnesp_Selenium_Domain\obj\Debug\netcoreapp3.1\Bot_AthenaUnesp_Selenium_Domain.csproj.AssemblyReference.cache
+E:\Projetos\bot biblio\Bot_AthenaUnesp_Selenium_Domain\obj\Debug\netcoreapp3.1\Bot_AthenaUnesp_Selenium_Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\bot biblio\Bot_AthenaUnesp_Selenium_Domain\obj\Debug\netcoreapp3.1\Bot_AthenaUnesp_Selenium_Domain.AssemblyInfoInputs.cache
+E:\Projetos\bot biblio\Bot_AthenaUnesp_Selenium_Domain\obj\Debug\netcoreapp3.1\Bot_AthenaUnesp_Selenium_Domain.AssemblyInfo.cs
+E:\Projetos\bot biblio\Bot_AthenaUnesp_Selenium_Domain\obj\Debug\netcoreapp3.1\Bot_AthenaUnesp_Selenium_Domain.csproj.CoreCompileInputs.cache
+E:\Projetos\bot biblio\Bot_AthenaUnesp_Selenium_Domain\obj\Debug\netcoreapp3.1\Bot_AthenaUnesp_Selenium_Domain.dll
+E:\Projetos\bot biblio\Bot_AthenaUnesp_Selenium_Domain\obj\Debug\netcoreapp3.1\Bot_AthenaUnesp_Selenium_Domain.pdb

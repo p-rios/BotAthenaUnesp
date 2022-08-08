@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projetos\\Bot_AthenaUnesp_Selenium_Domain\\Bot_AthenaUnesp_Selenium_Domain.csproj": {}
+    "E:\\Projetos\\bot biblio\\Bot_AthenaUnesp_Selenium_Domain\\Bot_AthenaUnesp_Selenium_Domain.csproj": {}
   },
   "projects": {
-    "E:\\Projetos\\Bot_AthenaUnesp_Selenium_Domain\\Bot_AthenaUnesp_Selenium_Domain.csproj": {
+    "E:\\Projetos\\bot biblio\\Bot_AthenaUnesp_Selenium_Domain\\Bot_AthenaUnesp_Selenium_Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projetos\\Bot_AthenaUnesp_Selenium_Domain\\Bot_AthenaUnesp_Selenium_Domain.csproj",
+        "projectUniqueName": "E:\\Projetos\\bot biblio\\Bot_AthenaUnesp_Selenium_Domain\\Bot_AthenaUnesp_Selenium_Domain.csproj",
         "projectName": "Bot_AthenaUnesp_Selenium_Domain",
-        "projectPath": "E:\\Projetos\\Bot_AthenaUnesp_Selenium_Domain\\Bot_AthenaUnesp_Selenium_Domain.csproj",
+        "projectPath": "E:\\Projetos\\bot biblio\\Bot_AthenaUnesp_Selenium_Domain\\Bot_AthenaUnesp_Selenium_Domain.csproj",
         "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
-        "outputPath": "E:\\Projetos\\Bot_AthenaUnesp_Selenium_Domain\\obj\\",
+        "outputPath": "E:\\Projetos\\bot biblio\\Bot_AthenaUnesp_Selenium_Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,10 @@
             "DotNetSeleniumExtras.WaitHelpers": {
               "target": "Package",
               "version": "[3.11.0, )"
+            },
+            "Selenium.Firefox.WebDriver": {
+              "target": "Package",
+              "version": "[0.27.0, )"
             },
             "Selenium.Support": {
               "target": "Package",

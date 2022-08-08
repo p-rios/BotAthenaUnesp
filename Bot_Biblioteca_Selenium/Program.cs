@@ -1,9 +1,12 @@
+
+using Bot_AthenaUnesp;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+
 
 namespace Bot_Biblioteca_Selenium
 {
@@ -19,6 +22,8 @@ namespace Bot_Biblioteca_Selenium
                 .ConfigureServices((hostContext, services) =>
                 {
                     services.AddHostedService<Worker>();
+                    services.AddTransient<IService, Service>();
+
                 });
     }
 }
