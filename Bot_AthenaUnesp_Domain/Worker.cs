@@ -43,7 +43,7 @@ namespace Bot_Biblioteca_Selenium
                 else
                 {
                     _logger.LogInformation("Renovado");
-                    await Task.Delay(86400, stoppingToken);
+                    await Task.Delay(43200000, stoppingToken);
                 }
 
             }

@@ -1,0 +1,2 @@
+SC DELETE AthenaUnesp
+pause
