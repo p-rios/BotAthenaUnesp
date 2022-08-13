@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ab11632c-5308-47dd-9a01-22a2861df683": {
+      "ProjectGuid": "ab11632c-5308-47dd-9a01-22a2861df683",
+      "DisplayName": "Bot_AthenaUnesp",
+      "ColorIndex": 0
+    },
+    "281c044e-5430-4d1a-b014-c01301a4635e": {
+      "ProjectGuid": "281c044e-5430-4d1a-b014-c01301a4635e",
+      "DisplayName": "Bot_AthenaUnesp_Domain",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

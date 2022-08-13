@@ -6,7 +6,7 @@ namespace Bot_AthenaUnesp
 {
     public interface IService
     {
-        void Execute(string login, string senha);
+        sbyte Execute(string login, string senha);
 
     }
 }
