@@ -1,0 +1,1 @@
+sc.exe create UnespAthenaService binpath= "%~dp0\Bot_AthenaUnesp_Domain.exe"

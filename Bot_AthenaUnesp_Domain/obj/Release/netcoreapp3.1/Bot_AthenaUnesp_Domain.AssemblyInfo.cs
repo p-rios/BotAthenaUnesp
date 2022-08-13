@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("dotnet-Bot_Biblioteca_Selenium-BEE57DF6-C052-4E02-8E57-639CEE38F145")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bot_AthenaUnesp_Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

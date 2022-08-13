@@ -25,7 +25,10 @@ namespace Bot_Biblioteca_Selenium
                     services.AddHostedService<Worker>();
                     services.AddTransient<IService, Service>();
                     services.AddTransient<IDocWriter, DocWriter>();
-                    services.AddTransient<IEncoder,Encoder>();
-                });
+                    services.AddTransient<IEncoder, Encoder>();
+                })
+             .UseWindowsService();
+             
+                
     }
 }
