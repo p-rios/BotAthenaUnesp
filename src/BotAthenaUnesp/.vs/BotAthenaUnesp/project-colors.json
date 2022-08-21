@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "42545030-1b42-4e3c-bdb8-0b94267c0faa": {
+      "ProjectGuid": "42545030-1b42-4e3c-bdb8-0b94267c0faa",
+      "DisplayName": "BotAthenaUnesp_Domain",
+      "ColorIndex": 0
+    },
+    "4eb1ff7e-fd49-4349-91b2-6fa44f9f67b5": {
+      "ProjectGuid": "4eb1ff7e-fd49-4349-91b2-6fa44f9f67b5",
+      "DisplayName": "BotAthenaUnesp",
+      "ColorIndex": 1
+    },
+    "21008c55-06ef-4ac0-b958-043e8b386cea": {
+      "ProjectGuid": "21008c55-06ef-4ac0-b958-043e8b386cea",
+      "DisplayName": "BotAthenaUnesp_Form",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
