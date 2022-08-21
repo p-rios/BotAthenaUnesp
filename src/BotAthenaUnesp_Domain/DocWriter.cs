@@ -27,18 +27,9 @@ namespace BotAthenaUnesp_Domain
             var fileExists = File.Exists(@".\data.json");
             if (fileExists == false)
             {
-                Console.WriteLine("Usuário(sem @unesp.br): ");
-                while (Console.ReadLine().Length == 0)
-                {
-                    Console.WriteLine("Usuário(sem @unesp.br): ");
-                }
+                Console.WriteLine("Usuário(sem @unesp.br): ");              
                 string user = Console.ReadLine();
-
-                Console.WriteLine("Senha: ");
-                while (Console.ReadLine().Length == 0)
-                {
-                    Console.WriteLine("Senha: ");
-                }
+                Console.WriteLine("Senha: ");          
                 string password = Console.ReadLine();
 
                 var encodedPassword = _encoder.Encrypt(password);
