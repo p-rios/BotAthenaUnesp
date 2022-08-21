@@ -16,12 +16,23 @@ namespace Bot_Biblioteca_Selenium
         private readonly ILogger<Worker> _logger;
         private readonly IService _service;
         private readonly IDocWriter _docwriter;
+        private Timer? _timer = null;
 
         public Worker(ILogger<Worker> logger, IService service, IDocWriter docwriter)
         {
             _logger = logger;
             _service = service;
             _docwriter = docwriter;
+        }
+
+        public Task StartAsync(CancellationToken stoppingToken)
+        {
+            _logger.LogInformation("Timed Hosted Service running.");
+
+            _timer = new Timer(DoWork, null, TimeSpan.Zero,
+                TimeSpan.FromSeconds(5));
+
+            return Task.CompletedTask;
         }
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)

@@ -1,0 +1,5 @@
+E:\Projetos\bot biblio\Bot_AthenaUnesp_Domain\obj\Debug\netcoreapp3.1\Bot_AthenaUnesp.csproj.AssemblyReference.cache
+E:\Projetos\bot biblio\Bot_AthenaUnesp_Domain\obj\Debug\netcoreapp3.1\Bot_AthenaUnesp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\bot biblio\Bot_AthenaUnesp_Domain\obj\Debug\netcoreapp3.1\Bot_AthenaUnesp.AssemblyInfoInputs.cache
+E:\Projetos\bot biblio\Bot_AthenaUnesp_Domain\obj\Debug\netcoreapp3.1\Bot_AthenaUnesp.AssemblyInfo.cs
+E:\Projetos\bot biblio\Bot_AthenaUnesp_Domain\obj\Debug\netcoreapp3.1\Bot_AthenaUnesp.csproj.CoreCompileInputs.cache

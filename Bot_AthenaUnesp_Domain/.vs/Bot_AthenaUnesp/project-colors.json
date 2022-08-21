@@ -8,12 +8,12 @@
     },
     "ab11632c-5308-47dd-9a01-22a2861df683": {
       "ProjectGuid": "ab11632c-5308-47dd-9a01-22a2861df683",
-      "DisplayName": "Bot_AthenaUnesp",
+      "DisplayName": "Bot_AthenaUnesp_Domain",
       "ColorIndex": 0
     },
     "281c044e-5430-4d1a-b014-c01301a4635e": {
       "ProjectGuid": "281c044e-5430-4d1a-b014-c01301a4635e",
-      "DisplayName": "Bot_AthenaUnesp_Domain",
+      "DisplayName": "Bot_AthenaUnesp",
       "ColorIndex": 1
     }
   },

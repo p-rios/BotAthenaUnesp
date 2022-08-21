@@ -16,6 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Bot_AthenaUnesp\Bot_AthenaUnesp.csproj" />
+    <ProjectReference Include="..\Bot_AthenaUnesp\Bot_AthenaUnesp_Domain.csproj" />
   </ItemGroup>
 </Project>
